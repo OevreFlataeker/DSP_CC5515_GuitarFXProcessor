@@ -1,0 +1,6 @@
+function [values] = sine() 
+t = [0:1/24000:127/24000]; 
+A = 1*sin(2*pi*1*t);
+//values = int16(A);
+val
+end

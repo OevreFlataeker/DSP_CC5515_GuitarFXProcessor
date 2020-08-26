@@ -1,0 +1,1 @@
+"./src/PLL.obj" "./src/aic3204.obj" "./src/aic3204_init.obj" "./src/main.obj" "./src/oled5515.obj" "./src/pushbuttons5515.obj" "./src/stereo.obj" "./src/usbstk5515.obj" "./src/usbstk5515_gpio.obj" "./src/usbstk5515_i2c.obj" "./src/usbstk5515_led.obj" "../55xdsph.lib" "../CSLc55x5h.lib" "../VC5505.cmd" -llibc.a 
